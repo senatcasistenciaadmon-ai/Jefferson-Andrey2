@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Organización del Archivo de Gestión - SENA",
+  "description": "Herramienta interactiva de formación práctica para aprendices del Técnico en Asistencia Administrativa del SENA: clasificación, ordenación, depuración, foliación, rotulación y FUID conforme a la normatividad AGN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
